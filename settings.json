@@ -8,7 +8,7 @@
   "server": {
     "ip": "SaveP.aternos.me",
     "port": 51345,
-    "version": "1.21"
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "chalo178"
     },
     "anti-afk": {
       "enabled": true,
