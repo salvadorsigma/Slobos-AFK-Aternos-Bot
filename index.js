@@ -2076,4 +2076,11 @@ addLog(
 );
 addLog("=".repeat(50));
 
-createBot();
+bot.on('spawn', () => {
+  setTimeout(() => {
+    bot.setControlState('forward', true);
+    setTimeout(() => {
+      bot.setControlState('forward', false);
+    }, 1000);
+  }, 2000);
+});
