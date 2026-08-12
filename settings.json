@@ -8,7 +8,7 @@
   "server": {
     "ip": "SaveP.aternos.me",
     "port": 51345,
-    "version": "",
+    "version": "1.21.10"
     "try-creative": false
   },
   "position": {
